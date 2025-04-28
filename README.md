@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adrija</h1>
-![image](https://github.com/user-attachments/assets/37d48ebf-e1da-45aa-90fe-2c4f4dded3a2)
-lign="center">A passionate frontend developer</h3>
 
+<h3 align="center">A passionate frontend developer</h3>
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/5a9b12ed-3f0d-4dda-b239-12eece4a19ae" alt="canva1" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrijadatta&label=Profile%20views&color=0e75b6&style=flat" alt="adrijadatta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrijadatta" alt="adrijadatta" /></a> </p>
