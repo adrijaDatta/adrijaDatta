@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrija</h1>
-![image][GITSTAT](https://github.com/user-attachments/assets/37d48ebf-e1da-45aa-90fe-2c4f4dded3a2)
+![image](https://github.com/user-attachments/assets/37d48ebf-e1da-45aa-90fe-2c4f4dded3a2)
 lign="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrijadatta&label=Profile%20views&color=0e75b6&style=flat" alt="adrijadatta" /> </p>
